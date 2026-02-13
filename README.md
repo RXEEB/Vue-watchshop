@@ -1,2 +1,2 @@
-demo: [vue-watchshop-hjh52qewl-rxeebs-projects.vercel.app
+demo: [[vue-watchshop-hjh52qewl-rxeebs-projects.vercel.app](https://vue-watchshop.vercel.app/)
 ](https://vue-watchshop-ggl5w8w36-rxeebs-projects.vercel.app/)
